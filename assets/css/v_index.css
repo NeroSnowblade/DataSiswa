@@ -1,0 +1,24 @@
+#body
+{
+    margin: 15;
+}
+table
+{
+    width: 100%;
+}
+
+#t1a
+{
+    width: 80%;
+}
+
+#t1b
+{
+    width: 20%;
+    text-align: right;
+}
+
+a
+{
+    text-decoration: none;
+}
